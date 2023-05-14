@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+.icon {
+  font-size: 40px;
+}
+.fa-cloud {
+  font-size: 50px;
+}
+h1 {
+  text-align: center;
+}
+.textbox {
+  text-align: center;
+}
